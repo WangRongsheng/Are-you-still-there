@@ -17,7 +17,7 @@
 
 # 运行截图
 
-![演示](./img/QQ截图20191103120452.png)
+![演示](https://github.com/Wangrongsheng/Are-you-still-there/raw/master/img/QQ截图20191103120452.png)
 
 # 提示
 
