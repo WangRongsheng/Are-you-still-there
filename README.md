@@ -15,7 +15,7 @@
 
 直接Run即可
 
-# 运行截图
+# 效果
 
 ![演示](https://github.com/Wangrongsheng/Are-you-still-there/raw/master/img/QQ截图20191103120452.png)
 
